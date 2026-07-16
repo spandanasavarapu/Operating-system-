@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main() {
+    printf("Shared Memory IPC Example\n");
+    return 0;
+}
