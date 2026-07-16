@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main() {
+    printf("Non-Preemptive SJF Program\n");
+    return 0;
+}
